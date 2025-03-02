@@ -1,6 +1,6 @@
 # WARNING
 
-The code won't work without the required libraries (Pygame)
+To visualize the simulation, you need to have python installed on your computer, with the Pygame library. Enjoy!
 
 
 # About my ant colony project
