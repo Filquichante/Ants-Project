@@ -244,7 +244,7 @@ while running:
                 height = int(width * aspect_ratio)
             screen = pygame.display.set_mode((width, height), flags)
             screen.fill(background_colour)
-            pygame.display.update()'''                                  #Si jamais je veux redimensionner l'écran, mais c'est casse-couillles donc on verra plus tard
+            pygame.display.update()'''                                  #Si jamais je veux redimensionner l'écran, mais c'est casse-pieds donc on verra plus tard
     
     screen.fill(background_colour)
 
